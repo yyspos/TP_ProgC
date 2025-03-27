@@ -20,7 +20,6 @@ Les objectifs du module sont de comprendre les différents aspects de la program
 - Créer, compiler et exécuter un projet en C.
 - Manipuler différents formats de données, tels que BMP, et utiliser des structures de données.
 - Créer un simple programme client-serveur pour le transfert de fichiers et de messages.
-- Documenter une application en utilisant le format Markdown (*.md).
 - Tester une application.
 
 #### Environnement de programmation:
