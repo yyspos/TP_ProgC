@@ -267,10 +267,3 @@ Assurez-vous que le programme fonctionne correctement en utilisant des pointeurs
 
 *bits.c, chaine.c, couleurs.c, etudiant2.c, etudiant.c, fibonacci.c,
 ptrvariables.c, puissance.c, tableauptr.c*
-
-## Instructions
-
-- N'oubliez pas les commentaires (nom du fichier, objectif, auteurs, lignes importantes de code, etc.). Les commentaires sont notés.
-- N'oubliez pas de mettre à jour le fichier README.md et d'ajouter les détails concernant votre deuxième exercice.
-- Compte rendu au format .zip en un seul fichier.
-
