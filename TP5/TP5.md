@@ -221,9 +221,3 @@ En suivant ces instructions, vous pourrez créer un système client-serveur qui 
 
 *client.c, client.h, Makefile, repertoire.c, repertoire.h, serveur.c,
 serveur.h*
-
-## Instructions
-
-- N'oubliez pas les commentaires (nom du fichier, objectif, auteurs, lignes importantes de code, etc.). Les commentaires sont notés.
-- N'oubliez pas de mettre à jour le fichier README.md et d'ajouter les détails.
-- Compte rendu au format .zip en un seul fichier.
