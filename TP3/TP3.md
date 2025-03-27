@@ -228,9 +228,3 @@ Le programme doit effectuer cette recherche sans utiliser de fonctions de biblio
 *chercher.c, chercher2.c, couleur_compteur.c, couleurs.c, grand_petit.c, octets.c,
 recherche_dichotomique.c, sizeof.c, tri.c*
 
-## Instructions
-
-- N'oubliez pas les commentaires (nom du fichier, objectif, auteurs, lignes importantes de code, etc.). Les commentaires sont notés.
-- N'oubliez pas de mettre à jour le fichier README.md et d'ajouter les détails.
-- Compte rendu au format .zip en un seul fichier.
-
