@@ -24,11 +24,7 @@ Les objectifs du module sont de comprendre les différents aspects de la program
 - Tester une application.
 
 #### Environnement de programmation:
-- Système d'exploitation: Linux
-  - Ubuntu
-  - Machine virtuelle (VirtualBox) + Ubuntu
-- Compilateur: `gcc`
-- Logiciels: firefox
+Le laboratoire numérique : http://lab-boris.fr/
   
 #### Instructions
 
