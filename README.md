@@ -1,4 +1,4 @@
-# ProgC
+# Programmation en C
 Sujets de travaux pratiques du module **Programmation en C**
 
 ## Année: 2024-2025
