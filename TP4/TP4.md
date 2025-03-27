@@ -287,9 +287,3 @@ Assurez-vous que le programme fonctionne correctement en ajoutant des couleurs �
 *calcule.c, etudiant_bd.c, fichier.c, liste.c, operator.c,
 chercherfichier.c, factorielle.c, fichier.h, liste.h, operator.h*
 
-## Instructions
-
-- N'oubliez pas les commentaires (nom du fichier, objectif, auteurs, lignes importantes de code, etc.). Les commentaires sont notés.
-- N'oubliez pas de mettre à jour le fichier README.md et d'ajouter les détails.
-- Compte rendu au format .zip en un seul fichier.
-
