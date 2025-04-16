@@ -5,6 +5,7 @@ int main() {
     double rayon, aire, perimetre;
 
     printf("Entrez le rayon du cercle : ");
+    fflush(stdout);
     scanf("%lf", &rayon);
 
     aire = M_PI * rayon * rayon;
