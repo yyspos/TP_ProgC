@@ -4,6 +4,7 @@ int main() {
     int compteur;
 
     printf("Entrez une valeur pour compteur (inférieure à 10) : ");
+    fflush(stdout);
     scanf("%d", &compteur);
 
     if (compteur >= 10) {
