@@ -11,6 +11,10 @@ int main() {
         printf("Erreur : compteur doit être inférieur à 10.\n");
         return 1;
     }
+    else if (compteur <= 0) {
+        printf("Erreur : compteur doit être supérieur à 0.\n");
+        return 1;
+    }
 
     printf("\nTriangle avec des boucles for :\n");
     for (int i = 1; i <= compteur; i++) {
