@@ -5,14 +5,14 @@ int main() {
 
     printf("Entrez une valeur pour compteur (inférieure à 10) : ");
     fflush(stdout);
-    scanf("%d", &compteur);
-
-    if (compteur >= 10) {
-        printf("Erreur : compteur doit être inférieur à 10.\n");
+    
+    if (scanf("%d", &compteur) != 1) {
+        printf("Erreur : Vous devez entrer un nombre entier.\n");
         return 1;
     }
-    else if (compteur <= 0) {
-        printf("Erreur : compteur doit être supérieur à 0.\n");
+
+    if (compteur >= 10 || compteur < 1) {
+        printf("Erreur : compteur doit être un entier strictement compris entre 1 et 9.\n");
         return 1;
     }
 
