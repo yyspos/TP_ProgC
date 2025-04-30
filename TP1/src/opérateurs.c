@@ -8,11 +8,23 @@ int main() {
     int addition = a + b;
     int soustraction = a - b;
     int multiplication = a * b;
-    int division = a / b; // division entière
+    int division = a / b;
     int modulo = a % b;
 
-    // Opérateurs de comparaison
-    int est_egal = (a == b);       // 1 si vrai, 0 sinon
-    int est_superieur = (a > b);   // 1 si vrai, 0 sinon
+    // Opérations de comparaison (résultat : 1 = vrai, 0 = faux)
+    int egal = (a == b);
+    int superieur = (a > b);
 
-    // Affichage des résulta
+    // Affichage des résultats
+    printf("a = %d, b = %d\n", a, b);
+    printf("Addition : a + b = %d\n", addition);
+    printf("Soustraction : a - b = %d\n", soustraction);
+    printf("Multiplication : a * b = %d\n", multiplication);
+    printf("Division entière : a / b = %d\n", division);
+    printf("Modulo : a %% b = %d\n", modulo); // double % pour afficher %
+
+    printf("a == b ? %d\n", egal);
+    printf("a > b ? %d\n", superieur);
+
+    return 0;
+}
